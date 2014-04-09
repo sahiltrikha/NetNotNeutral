@@ -3,3 +3,4 @@
 // rightIframe.onload = function(){
 //     rightIframe.contentWindow.scrollTo(10000000000,100000000000);
 // };
+var a = $("iframe")
