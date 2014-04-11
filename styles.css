@@ -1,7 +1,7 @@
 #search{
-position: absolute; 
-bottom: 0px;
-width: 100%;
+/*  position: fixed; 
+*/  bottom: 0px;
+  width: 100%;
 }
 #left{
   float: left;
@@ -13,4 +13,17 @@ width: 100%;
   float: right;
   width: 50%;
   height: 90%;
+}
+.hsContainer{
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 180px;
+}
+.bcg1{
+  background-image:url('http://foundwalls.com/wp-content/uploads/2012/05/planet-stars-light-space.jpg');
+  height: 500px;
+}
+.bcg{
+  background-image:url('http://w8themes.com/wp-content/uploads/2013/11/Blue-Wallpapers.png');
+  height: 500px;
 }
